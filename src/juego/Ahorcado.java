@@ -7,7 +7,7 @@ package juego;
 import java.util.Scanner;
 
 public class Ahorcado {
-
+//JAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJAJ
     public static void main(String[] args) {
         jugarAhorcado();
     }
